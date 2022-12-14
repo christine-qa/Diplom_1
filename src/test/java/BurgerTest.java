@@ -1,9 +1,9 @@
-package praktikum;
 import org.junit.Test;
 import org.junit.Before;
 import org.junit.runner.RunWith;
 import org.mockito.Mock;
 import org.mockito.junit.MockitoJUnitRunner;
+import praktikum.*;
 
 import java.util.ArrayList;
 import java.util.List;
